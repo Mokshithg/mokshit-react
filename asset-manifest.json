@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mokshit-react/static/css/main.e6c13ad2.css",
-    "main.js": "/mokshit-react/static/js/main.f05fa15a.js",
+    "main.js": "/mokshit-react/static/js/main.f1807ba4.js",
     "static/js/787.27a19742.chunk.js": "/mokshit-react/static/js/787.27a19742.chunk.js",
     "index.html": "/mokshit-react/index.html",
     "main.e6c13ad2.css.map": "/mokshit-react/static/css/main.e6c13ad2.css.map",
-    "main.f05fa15a.js.map": "/mokshit-react/static/js/main.f05fa15a.js.map",
+    "main.f1807ba4.js.map": "/mokshit-react/static/js/main.f1807ba4.js.map",
     "787.27a19742.chunk.js.map": "/mokshit-react/static/js/787.27a19742.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f05fa15a.js"
+    "static/js/main.f1807ba4.js"
   ]
 }
