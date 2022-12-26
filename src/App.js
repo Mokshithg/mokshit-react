@@ -22,7 +22,7 @@ export const App = () => {
   return (
     <div>
       <Alert alert={'This is Created by --Mokshh'}/>
-      <strong><ComponentB title="TextAnalyzer" mode={mode} modeChanger={modeChanger} about={'About us'} homepage={"Home"}/></strong>
+      <strong><ComponentB title="mokshit" mode={mode} modeChanger={modeChanger} about={'About us'} homepage={"Home"}/></strong>
       
       <Router> 
         <Routes>
