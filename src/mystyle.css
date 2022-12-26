@@ -1,0 +1,33 @@
+.container{
+    padding: 15px;
+    margin-top: 40px ;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: auto;
+    border : 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.4s ease 0s;
+}
+.text{
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+}
+.container input{
+    width: 180px;
+    border-radius: 5px;
+}
+.container input:hover{
+    margin : 4px 4px ;
+    box-shadow: 0px 0px 6px rgba(0,0,0,0.5) ;
+    transition: all 0.4s ease 0s;
+}
+
+.text:hover{
+    text-shadow: 20px 20px 20px rgba(0,0,0,0.5);
+    transition: all 0.4s ease 0s;
+}
+button{
+    padding : 5px;
+    margin : 4px;
+}
